@@ -1,6 +1,6 @@
 {
   "name": "random-objectid",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Generate a 12 byte hexadecimal string that can act as a mongo ObjectID",
   "main": "index.js",
   "scripts": {
