@@ -1,13 +1,17 @@
 {
   "name": "random-objectid",
   "version": "0.0.3",
-  "description": "Generates a 25 byte hexadecimal string that can act as a mongo ObjectID",
+  "description": "Generate a 12 byte hexadecimal string that can act as a mongo ObjectID",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
     "random-objectid": "cmd.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:JChanceHud/random-objectid.git"
   },
   "keywords": [
     "mongo",
