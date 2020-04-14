@@ -21,8 +21,8 @@ In code:
 ```js
 const randomObjectId = require('random-objectid')
 
-async () => {
-  const testId = await randomObjectId()
+() => {
+  const testId = randomObjectId()
   console.log('generated random id', testId)
 }
 ```
